@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/crt-nshift-appliance-tenant/appliance/appliance@sha256:678255408c62eabfc57c73c7d68a3222735e72204d225ab2b293e93675143d14
+      - image: quay.io/redhat-user-workloads/crt-nshift-appliance-tenant/appliance/appliance@sha256:5468a1c758e76902a5a8b4c5449d4660aa0793466091e7ec52fdb2718673d6d2
         name: my-go
         resources: {}
 status: {}
