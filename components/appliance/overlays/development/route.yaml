@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: appliance
     app.kubernetes.io/part-of: appliance
-  name: appliancejw27
+  name: appliancesom5
 spec:
   path: /
   port:
