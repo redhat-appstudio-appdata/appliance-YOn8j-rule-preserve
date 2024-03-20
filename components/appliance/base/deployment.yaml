@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: appliance
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/crt-nshift-appliance-tenant/appliance/appliance@sha256:a254c70160c0b3e89e5689df73fb560e85b080e481255e3f0d16cea020269a79
+      - image: quay.io/redhat-user-workloads/crt-nshift-appliance-tenant/appliance/appliance@sha256:178de3ae93bdd14432e849d773bc1979078e5422c1bf312a4b1f954cc9b29ab5
         name: my-go
         ports:
         - containerPort: 8081
